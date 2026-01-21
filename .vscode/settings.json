@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 18,
+    "debug.console.fontSize": 16,
+    "terminal.integrated.fontSize": 16,
+    "scm.inputFontSize": 16,
+    "markdown.preview.fontSize": 18,
+    "editor.indentSize": "tabSize",
+    "editor.detectIndentation": true
+}
